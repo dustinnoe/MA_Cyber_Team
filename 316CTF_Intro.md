@@ -26,7 +26,7 @@ OSINT challenges test your ability to research and piece together information fr
 
 ### 5. Web
 
-Web challenges introduce basic web reconnaissance and data retrieval.  In the first “Book” challenge, the author explains that he has hidden four flags on his `100linuxcommands.com` website and tells you to scan or scrape the site—but **not** to log in or launch denial‑of‑service attacks.  You’ll learn to view page source, crawl directories, understand HTTP requests and avoid breaking rules.  These skills form the basis of ethical web reconnaissance and vulnerability assessment.
+Web challenges introduce basic web reconnaissance and data retrieval.  In the first “Book” challenge, the author explains that he has hidden four flags on his `100linuxcommands.com` website and tells you to scan or scrape the site, but **not** to log in or launch denial‑of‑service attacks.  You’ll learn to view page source, crawl directories, understand HTTP requests and avoid breaking rules.  These skills form the basis of ethical web reconnaissance and vulnerability assessment.
 
 ### 6. Network Analysis
 
@@ -40,5 +40,6 @@ These problems teach you to examine network traffic and metadata.  For example, 
 * **Document your steps.** Especially for OSINT and Find Stacy tasks, keep notes; some later challenges build on earlier findings.
 * **Use online tools wisely.** For cryptography, websites like [CyberChef](https://gchq.github.io/CyberChef/) can help decode text; for geolocation, try reverse‑image search and map services; for PCAPs, use [Wireshark](https://www.wireshark.org/).
 * **Stay ethical.** Never attempt to compromise any real system without permission.  316CTF challenges are designed to be solved legally.
+
 
 By exploring these categories, you’ll build a strong foundation in several areas of cybersecurity and gain problem‑solving skills that will serve you well in future competitions. Enjoy the hunt!
