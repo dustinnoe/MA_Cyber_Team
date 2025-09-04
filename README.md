@@ -8,4 +8,4 @@ To succeed on the MA Cyber Team, focus on learning rather than ticking off every
 
 ## 316CTF
 
-We use 316CTF as our free range learning environment. Please read the [Intro to 316CTF](315CTF_Intro.md) to get started.
+We use 316CTF as our free range learning environment. Please read the [Intro to 316CTF](316CTF_Intro.md) to get started.
