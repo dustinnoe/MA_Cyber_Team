@@ -1,1 +1,3 @@
+## Creating Your Hacker Name
+
 A hacker name functions like a nickname in the cybersecurity world; it is a handle that represents you in CTFs, coding forums and competitions. Choosing a name that reflects your interests or sense of humor makes you stand out and can be fun, yet it also acts as a layer of privacy because CTF scoreboards and forums often display participants by their chosen names rather than real identities. My own handle is “errno3,” which is a playful nod to both my last name Noe and the Unix error code function errno(3). When you pick a clever and appropriate hacker name, you create a distinctive identity for yourself while keeping your personal details out of public lists and leaderboards.
