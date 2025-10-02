@@ -15,3 +15,4 @@ We use 316CTF as our free range learning environment. Please read the [Intro to 
 ### Password Cracking
 
 - [Password Cracking Tools](Password_Cracking.md)
+- [Identifying Hash Types](Identifying_Hash_Types.md)
